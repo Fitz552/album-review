@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.clean{
+  text-decoration: none;
+}
+
+.brand {
+  background-color: plum;
+}
+
+.logo {
+  font-family: "Verdana, Geneva, Tahoma, sans-serif";
+}
+
+.album-image {
+  width: 15em;
+  height: 15em
+}
